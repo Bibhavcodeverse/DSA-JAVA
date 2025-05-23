@@ -31,12 +31,13 @@ public class loop {
         //     sum=i+sum;
         // }
         // System.out.println("Sum of the value upto" + " "+ n +" "+ "natural number: " +sum);
-        Scanner sc =new Scanner(System.in);
-        System.out.println("Enter the number that You need of multiplication table:  ");
-        int n =sc.nextInt();
+        //Scanner sc =new Scanner(System.in);
+  // Multiplication table       
+       // System.out.println("Enter the number that You need of multiplication table:  ");
+       // int n =sc.nextInt();
 
-        for(int i=1; i<11; i++){
-            System.out.println(n*i);
-        }
-    }
-}
+       //; for(int i=1; i<11; i++){
+           // System.out.println(n*i);
+        //}
+   // }
+//}
